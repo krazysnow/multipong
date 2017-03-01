@@ -6,7 +6,7 @@ from kivy.uix.widget import Widget
 class MultiPong(App):
     def build(self):
         top = Widget()
-        top.add_widget(Label(text='Hello there'))
+        top.add_widget(Label(text='Hello there bananas'))
         return top
 
 if __name__ == "__main__":
